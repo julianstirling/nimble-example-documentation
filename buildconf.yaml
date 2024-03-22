@@ -1,0 +1,16 @@
+CustomCategories:
+  mech:
+    DisplayName: Mechanical Components
+    Reuse: false
+  net:
+    DisplayName: Networking Compontents
+    Reuse: false
+  printed:
+    DisplayName: 3D printed parts
+    Reuse: false
+DefaultCategory: mech
+HoverColor: '#555555'
+PageBOMTitle: '## For this page you will need'
+PrimaryColor: '#2d3b46'
+SecondaryColor: '#cccccc'
+License: CERN-OHL-S-2.0
