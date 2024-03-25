@@ -1,26 +1,45 @@
 
 name: Deploy Gitbuilding Project to Github Pages
 
-on: [push]
+on:
+  push:
+    branches: [ master ]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  build_and_deploy:
-    runs-on: ubuntu-20.04
+  build:
+    name: Compile
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Install Python 3
-        uses: actions/setup-python@v1
+      - name: "Checkout"
+        uses: actions/checkout@v3
         with:
-          python-version: "3.7"
+          submodules: true
+      - name: Install Python 3
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
       - name: Build
         run: |
           pip install gitbuilding
           gitbuilding build-html
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@3.7.1
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: master
-          FOLDER: _site/
-          # Automatically remove deleted files from the deploy branch
-          CLEAN: false
+          path: "doc_generator/build/static/"
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
