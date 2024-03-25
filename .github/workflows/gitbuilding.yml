@@ -25,12 +25,13 @@ jobs:
           python-version: "3.12"
       - name: Build
         run: |
+          pip install setuptools
           pip install gitbuilding
           gitbuilding build-html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: "doc_generator/build/static/"
+          path: "_site/"
 
   # Deployment job
   deploy:
