@@ -4,7 +4,7 @@
 
 ## Position the computer{pagestep}
 
-* Take the [NUC Shelf]{qty:1, cat:printed} you printed earlier
+* Take the [NUC Shelf](fromstep){qty:1, cat:printed} you printed earlier
 * Position the [NUC computer]{qty:1, cat:net} on the shelf so that front of the computer sits just behind where the shelf narrows
 
 ![](images/NUC_shelf1.jpg)

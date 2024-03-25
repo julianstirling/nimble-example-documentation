@@ -4,7 +4,7 @@
 
 ## Prepare the tray {pagestep}
 
-* Take the [Netgate Shelf]{qty:1, cat:printed} you printed earlier and a [2.5mm Allen Key]{qty:1, cat:tool}.
+* Take the [Netgate Shelf](fromstep){qty:1, cat:printed} you printed earlier and a [2.5mm Allen Key]{qty:1, cat:tool}.
 * Lightly screw a [M3x12mm cap screw][M3x12mm cap screws]{qty:2} into the top hole of each of the two rear posts.
 * Make sure each screw is inserted less than half way.
 

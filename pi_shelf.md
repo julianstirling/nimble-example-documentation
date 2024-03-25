@@ -4,7 +4,7 @@
 
 ## Position the Raspberry Pi {pagestep}
 
-* Take the [Raspberry Pi Shelf]{qty:1, cat:printed} you printed earlier
+* Take the [Raspberry Pi Shelf](fromstep){qty:1, cat:printed} you printed earlier
 
 ![](images/PiShelfAssembly1.jpg)
 

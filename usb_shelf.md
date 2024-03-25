@@ -5,7 +5,7 @@
 
 ## Prepare the tray {pagestep}
 
-* Take the [USB Power Shelf]{qty:1, cat:printed} you printed earlier and a [2.5mm Allen Key]{qty:1, cat:tool}.
+* Take the [USB Power Shelf](fromstep){qty:1, cat:printed} you printed earlier and a [2.5mm Allen Key]{qty:1, cat:tool}.
 * Lightly screw a [M3x12mm cap screw][M3x12mm cap screws]{qty:4} into the top hole of each of the 4 side-posts.
 * Make sure each screw is inserted less than half way.
 

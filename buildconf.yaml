@@ -1,3 +1,4 @@
+AutoCompleteSubNav: true
 CustomCategories:
   mech:
     DisplayName: Mechanical Components
@@ -8,9 +9,19 @@ CustomCategories:
   printed:
     DisplayName: 3D printed parts
     Reuse: false
+  consumable:
+    Reuse: false
+    DisplayName: Comsumables
 DefaultCategory: mech
 HoverColor: '#555555'
+License: CERN-OHL-S-2.0
+Navigation:
+  - Link: config.md
+    Title: Your Nimble Configuration
+  - Link: troubleshooting.md
+    Title: Troubleshooting
+  - Link: knowledgebase.md
+    Title: Knowledge Base
 PageBOMTitle: '## For this page you will need'
 PrimaryColor: '#2d3b46'
 SecondaryColor: '#cccccc'
-License: CERN-OHL-S-2.0

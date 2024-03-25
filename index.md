@@ -29,5 +29,3 @@ To customise your Nimble you can go to [our GitHub](https://github.com/Wakoma/ni
 ## Building your Nimble
 
 In the next pages we will build [your nimble](config.md){step}.
-
-If you get stuck check our [troubleshooting and support](troubleshooting.md){step} pages.

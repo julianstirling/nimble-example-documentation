@@ -4,7 +4,7 @@
 
 ## Prepare the tray {pagestep}
 
-* Take the [UniFi Switch Shelf]{qty:1, cat:printed} you printed earlier and UniFi Switch Mounting Bracket (This should come with the switch)
+* Take the [UniFi Switch Shelf](fromstep){qty:1, cat:printed} you printed earlier and UniFi Switch Mounting Bracket (This should come with the switch)
 * Place the bracket on the tray so that the extended flat raised section faced the front of the tray
 
 ![](images/UniFi_Flex_Switch1.jpg)

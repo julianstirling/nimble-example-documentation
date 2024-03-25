@@ -5,7 +5,7 @@
 
 ## Position the drives {pagestep}
 
-* Take the [SSD shelf]{qty:1, cat:printed} you printed earlier
+* Take the [SSD shelf](fromstep){qty:1, cat:printed} you printed earlier
 * Position two [2.5 inch SSD drives]{qty:2, cat:net} on the shelf so that the conectores are visible at the rear
 
 ![](images/SSDShelfAssembly1.jpg)

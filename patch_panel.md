@@ -13,7 +13,7 @@
 
 ## Attach the Ethernet Keystones{pagestep}
 
-* Take the [Patch pannel]{qty:1, cat:printed} you printed earlier and three [ethernet keystones][Ethernet Keystones]{qty:3, cat:net}
+* Take the [Patch panel](fromstep){qty:1, cat:printed} you printed earlier and three [ethernet keystones][Ethernet Keystones]{qty:3, cat:net}
 * These will be clipped into the three left hand panels
 
 ![](images/Patch1.jpg)
