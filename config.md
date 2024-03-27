@@ -14,6 +14,6 @@ Your shelves from bottom to to are:
 * [Patch panel](patch_panel.md){step} - To expose ports the back plane
 * [omni-charge shelf](omnicharge_shelf.md){step} - For a portable power supply
 
-Once you have assembled each shelf, you will [construct the rack](construction.md){step} and [prepare the case](case.md){step} before finally [wiring up the system](wiring.md){step}.
+Once you have assembled each shelf, you will [construct the rack](construction.md){step} and [prepare the case](case.md){step} before finally [wiring up the system](wiring.md){step} and [setting it up](setup.md){step}.
 
 Make sure you have [all the parts you need]{bom}, before you start assembly.

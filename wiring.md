@@ -1,4 +1,4 @@
-# Wiring and power on!
+# Wiring The Nimble
 
 >!! **TODO**
 >!!
@@ -50,6 +50,4 @@
 ![](images/IMG_20210417_114307153_Large.jpg)
 
 ![](images/IMG_20210417_114314604_Large.jpg)
-
-![](images/IMG_20210417_114705899_Large.jpg)
 
