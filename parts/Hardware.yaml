@@ -1,0 +1,93 @@
+CapScrew_M2.5x6mm_SS:
+  Description: Socket Head Cap Screws ISO 4762 (DIN 912) M2.5 in A2 Stainless Steel
+  Name: Socket Head Cap (Allen) Screw M2.5 x 6mm in A2 Stainless
+  Specs:
+    Length: 6mm
+    Material: 'A2 Stainless Steel (Also known as: SAE 304; 18-8; UNS S30400; SUS304;
+      European norm 1.4301)'
+    Standards: ISO 4762, DIN 912
+    Thread: M2.5
+  Suppliers:
+    McMaster Carr:
+      Link: https://www.mcmaster.com/ISO-4762
+      PartNo: Search for ISO 4762
+    Westfield Fasteners:
+      Link: https://www.westfieldfasteners.co.uk//Bolts-Screws-Metric/Socket-Head-Cap-Allen-Screw-M2.5x6-A2-Stainless.html
+      PartNo: WF2335
+CapScrew_M3x12mm_SS:
+  Description: Socket Head Cap Screws ISO 4762 (DIN 912) M3 in A2 Stainless Steel
+  Name: Socket Head Cap (Allen) Screw M3 x 12mm in A2 Stainless
+  Specs:
+    Length: 12mm
+    Material: 'A2 Stainless Steel (Also known as: SAE 304; 18-8; UNS S30400; SUS304;
+      European norm 1.4301)'
+    Standards: ISO 4762, DIN 912
+    Thread: M3
+  Suppliers:
+    McMaster Carr:
+      Link: https://www.mcmaster.com/ISO-4762
+      PartNo: Search for ISO 4762
+    Westfield Fasteners:
+      Link: https://www.westfieldfasteners.co.uk//Bolts-Screws-Metric/Socket-Head-Cap-Allen-Screw-M3x12-A2-Stainless.html
+      PartNo: WF2346
+CskScrew_M3x6mm_SS:
+  Description: M3 Socket Head Countersunk Screws ISO 10642 (DIN 7991) in A2 Stainless Steel
+  Name: Socket Head Countersunk Screws Screw M3 x 6mm in A2 Stainless
+  Specs:
+    Length: 6mm
+    Material: 'A2 Stainless Steel (Also known as: SAE 304; 18-8; UNS S30400; SUS304;
+      European norm 1.4301)'
+    Standards: ISO 10642, DIN 7991
+    Thread: M3
+  Suppliers:
+    McMaster Carr:
+      Link: https://www.mcmaster.com/ISO-10642
+      PartNo: Search for ISO 10642
+    Westfield Fasteners:
+      Link: https://www.westfieldfasteners.co.uk/Bolts_Screws_Metric/Socket_Head_Csk_Allen_Screw_M3x6_A2_Stainless.html
+      PartNo: WF2540
+LowProfile_CapScrew_M3x6mm_SS:
+  Description: Low Profile Socket Head Cap Screws ISO (DIN 6912) M3 in A2 Stainless Steel
+  Name: Low Profile Socket Head Cap (Allen) Screw M6 x 12mm in A2 Stainless
+  Specs:
+    Length: 6mm
+    Material: 'A2 Stainless Steel (Also known as: SAE 304; 18-8; UNS S30400; SUS304;
+      European norm 1.4301)'
+    Standards: DIN 6912
+    Thread: M3
+  Suppliers:
+    McMaster Carr:
+      Link: https://www.mcmaster.com/DIN-6912
+      PartNo: Search for DIN 6912
+CapScrew_M4x10mm_SS:
+  Description: Socket Head Cap Screws ISO 4762 (DIN 912) M4 in A2 Stainless Steel
+  Name: Socket Head Cap (Allen) Screw M4 x 10mm in A2 Stainless
+  Specs:
+    Length: 10mm
+    Material: 'A2 Stainless Steel (Also known as: SAE 304; 18-8; UNS S30400; SUS304;
+      European norm 1.4301)'
+    Standards: ISO 4762, DIN 912
+    Thread: M4
+  Suppliers:
+    McMaster Carr:
+      Link: https://www.mcmaster.com/ISO-4762
+      PartNo: Search for ISO 4762
+    Westfield Fasteners:
+      Link: https://www.westfieldfasteners.co.uk//Bolts-Screws-Metric/Socket-Head-Cap-Allen-Screw-M4x10-A2-Stainless.html
+      PartNo: WF2357
+CskScrew_M4x10mm_SS:
+  Description: M4 Socket Head Countersunk Screws ISO 10642 (DIN 7991) in A2 Stainless Steel
+  Name: Socket Head Countersunk Screws Screw M4 x 10mm in A2 Stainless
+  Specs:
+    Length: 10mm
+    Material: 'A2 Stainless Steel (Also known as: SAE 304; 18-8; UNS S30400; SUS304;
+      European norm 1.4301)'
+    Standards: ISO 10642, DIN 7991
+    Thread: M4
+  Suppliers:
+    McMaster Carr:
+      Link: https://www.mcmaster.com/ISO-10642
+      PartNo: Search for ISO 10642
+    Westfield Fasteners:
+      Link: https://www.westfieldfasteners.co.uk/Bolts_Screws_Metric/Socket_Head_Csk_Allen_Screw_M4x10_A2_Stainless.html
+      PartNo: WF2550

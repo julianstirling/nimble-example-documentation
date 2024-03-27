@@ -2,9 +2,11 @@
 
 {{BOM}}
 
+[M3x12mm cap screws]: parts/Hardware.yaml#CapScrew_M3x12mm_SS
+
 ## Prepare the tray {pagestep}
 
-* Take the [Netgate Shelf](fromstep){qty:1, cat:printed} you printed earlier and a [2.5mm Allen Key]{qty:1, cat:tool}.
+* Take the [Netgate Shelf](fromstep){qty:1, cat:printed} you printed earlier and a [2.5mm Allen key](parts/metric_allen_keys.md){qty:1, cat:tool}.
 * Lightly screw a [M3x12mm cap screw][M3x12mm cap screws]{qty:2} into the top hole of each of the two rear posts.
 * Make sure each screw is inserted less than half way.
 
@@ -13,7 +15,7 @@
 
 ## Secure the Netgate 1100 {pagestep}
 
-* Position the [Netgate 1100 Firewall Appliance]{qty:1, cat:net} on the shelf so that the ports are visible through the front of the tray
+* Position the [Netgate 1100 Firewall Appliance](parts/Netgate1100.md){qty:1, cat:net} on the shelf so that the ports are visible through the front of the tray
 
 ![](images/Netgate2.jpg)
 ![](images/Netgate3.jpg)

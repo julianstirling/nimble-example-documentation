@@ -14,7 +14,7 @@
 
 ![](images/IMG_20210417_114705899_Large.jpg)
 
-* Take the three [UniFi Access Points]{qty:3, cat:net} and clip them onto the mounting brackets in the Peli Case lid.
+* Take the three [UniFi Access Points](parts/UniFiAccessPoints.md){qty:3, cat:net} and clip them onto the mounting brackets in the Peli Case lid.
 
 ![](images/IMG_20210417_114939779_Large.jpg)
 

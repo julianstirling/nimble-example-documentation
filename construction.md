@@ -7,10 +7,13 @@
 
 {{BOM}}
 
+[M4x10mm countersunk screws]: parts/Hardware.yaml#CskScrew_M4x10mm_SS
+[M4x10mm cap screws]: parts/Hardware.yaml#CapScrew_M4x10mm_SS
+
 ## Attach the legs to the bottom{pagestep}
 
 * Get the [bottom](fromstep){qty:1, cat:printed} and the four [rack legs](fromstep){qty:4, cat:printed} that you printed earlier.
-* Get an [3mm Allen Key]{qty:1, cat:tool} ready
+* Get an [3mm Allen key](parts/metric_allen_keys.md){qty:1, cat:tool} ready
 * Use four [M4x10mm countersunk screws]{qty:4} to attach a leg to each corner of the bottom.
 
 ![](images/RackAssembly1.jpg)

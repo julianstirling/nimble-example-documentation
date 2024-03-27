@@ -13,7 +13,7 @@
 
 ## Attach the Ethernet Keystones{pagestep}
 
-* Take the [Patch panel](fromstep){qty:1, cat:printed} you printed earlier and three [ethernet keystones][Ethernet Keystones]{qty:3, cat:net}
+* Take the [Patch panel](fromstep){qty:1, cat:printed} you printed earlier and three [ethernet keystones][Ethernet Keystones](parts/EthernetKeystone.md){qty:3, cat:net}
 * These will be clipped into the three left hand panels
 
 ![](images/Patch1.jpg)
@@ -35,7 +35,7 @@
 
 ## Attach the HDMI and USB Keystones{pagestep}
 
-* Repeat this process for an [HDMI Keystone]{qty:1, cat:net} and a [USB Keystone]{qty:1, cat:net}
+* Repeat this process for an [HDMI Keystone](parts/HDMIKeystone.md){qty:1, cat:net} and a [USB Keystone](parts/USBKeystone.md){qty:1, cat:net}
 *{info} Note that the keystones are mounted rotated by 90 degrees.
 
 ![](images/Patch7.jpg)

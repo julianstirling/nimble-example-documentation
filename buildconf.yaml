@@ -9,12 +9,12 @@ CustomCategories:
   net:
     DisplayName: Networking Compontents
     Reuse: false
+  prev:
+    DisplayName: Previously Assembled
+    Reuse: false
   printed:
     DisplayName: 3D printed parts
     Reuse: false
-  prev:
-    Reuse: false
-    DisplayName: Previously Assembled
 DefaultCategory: mech
 HoverColor: '#555555'
 License: CERN-OHL-S-2.0

@@ -2,7 +2,10 @@
 
 {{BOM}}
 
-You will need a [3d printer](3dprinter.md){qty:1, cat: tool} and about 1kg of [PLA filament]{qty:1kg, cat:consumable}.
+
+## Print the custom components {pagestep}
+
+You will need a [3d printer](3dprinter.md){qty:1, cat: tool} and about 1kg of [PLA filament](parts/filament.md){qty:1kg, cat:consumable}.
 
 Using the slicer that comes with your printer, print the following parts. Some require support. A brim is advised for all parts.
 
@@ -26,4 +29,7 @@ Using the slicer that comes with your printer, print the following parts. Some r
 
 You can [download all of the STLs as a single zipfile](all-stls.zip){zip, pattern:"*.stl"}
 
-Remove the brim with a [utility knife]{qty:1, cat:tool}
+
+## Remove the brim {pagestep}
+
+Remove the brim with a [utility knife](parts/utility_knife.md){qty:1, cat:tool}
