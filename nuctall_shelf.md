@@ -20,3 +20,4 @@
 
 ![](images/NUC_shelf2.jpg)
 
+[Assembled NUC Shelf]{output, qty:1, hidden}

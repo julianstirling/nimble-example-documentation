@@ -25,3 +25,4 @@
 ![](images/UniFi_Flex_Switch5.jpg)
 ![](images/UniFi_Flex_Switch6.jpg)
 
+[Assembled UniFi Switch Shelf]{output, qty:1, hidden}

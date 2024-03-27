@@ -22,3 +22,5 @@
 *{warning}  Do not over tighten the screws in this step as this may damage the plastic. 
 
 ![](images/AnkerUSBPower3.jpg)
+
+[Assembled USB Power Shelf]{output, qty:1, hidden}

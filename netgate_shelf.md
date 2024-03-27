@@ -23,7 +23,4 @@
 
 ![](images/Netgate4.jpg)
 
-
-
-
-
+[Assembled Netgate Shelf]{output, qty:1, hidden}

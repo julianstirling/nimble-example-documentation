@@ -1,5 +1,8 @@
 AutoCompleteSubNav: true
 CustomCategories:
+  consumable:
+    DisplayName: Comsumables
+    Reuse: false
   mech:
     DisplayName: Mechanical Components
     Reuse: false
@@ -9,9 +12,9 @@ CustomCategories:
   printed:
     DisplayName: 3D printed parts
     Reuse: false
-  consumable:
+  prev:
     Reuse: false
-    DisplayName: Comsumables
+    DisplayName: Previously Assembled
 DefaultCategory: mech
 HoverColor: '#555555'
 License: CERN-OHL-S-2.0

@@ -19,3 +19,5 @@
 * Using four [M2.5x6mm cap screws]{qty:4} and a [2mm Allen Key]{qty:1, cat:tool}, secure the pi to the shelf.
 
 ![](images/PiShelfAssembly3.jpg)
+
+[Assembled Raspberry Pi Shelf]{output, qty:1, hidden}

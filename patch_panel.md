@@ -40,4 +40,4 @@
 
 ![](images/Patch7.jpg)
 
-
+[Assembled Patch panel]{output, qty:1, hidden}

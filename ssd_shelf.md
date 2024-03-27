@@ -17,3 +17,4 @@
 
 ![](images/SSDShelfAssembly2.jpg)
 
+[Assembled SSD shelf]{output, qty:1, hidden}

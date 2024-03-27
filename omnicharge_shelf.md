@@ -22,4 +22,4 @@
 ![](images/OmniShelfAssembly4.jpg)
 ![](images/OmniShelfAssembly5.jpg)
 
-
+[Assembled Omni Shelf]{output, qty:1, hidden}
