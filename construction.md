@@ -1,10 +1,5 @@
 # Construct the and populate the rack
 
->!! **TODO**
->!!
->!! * All written instructions after step 1.
->!! * include adding final screws
-
 {{BOM}}
 
 [M4x10mm countersunk screws]: parts/Hardware.yaml#CskScrew_M4x10mm_SS

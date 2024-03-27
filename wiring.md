@@ -4,6 +4,7 @@
 >!!
 >!! * Write the instructions
 >!! * Be clear what passes through where
+>!! * Add cables to the BOM.. what are they!?
 >!! * Annotate images to be clear what we are looking at
 
 {{BOM}}
