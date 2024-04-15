@@ -1,6 +1,6 @@
 # Nimble example docs
 
-This is an example of documentation for a specific Nimble configuration. This is being used to plan the documentation in the new [Nimble Smart docs](https://github.com/Wakoma/nimble/pull/23) and to plan and test functionality for [GitBuilding](https://gitbuilding.io).
+This is an example of documentation for a specific Nimble configuration. This fork is is being used to test deploying documentation that will later power our [Nimble Smart docs](https://github.com/Wakoma/nimble/pull/23) and using new functionality in [GitBuilding](https://gitbuilding.io).
 
 ### Why is this a separate repo?
 
